@@ -3,6 +3,7 @@ package package1;
 import java.awt.Graphics;
 
 public class Cercle {
+/* question 5*/ 
 
 	 //-------------- constantes ----------------------------------------
     /**
